@@ -1,0 +1,132 @@
+{
+	"gallery": [
+		{
+			"button"	: "Issue 46",
+			"headline"	: "Train Collector, issue 46",
+			"description" : "Issue 46 offers again more than 50 pages of reading about various trains. Including commonly unknown manufacturers like the Spanish Manamo 0 Gauge trains but also an impressive article about Brian Wrights life in tinplate, and many other.",
+			"path"	: "images/t-c-issue-46-210x300.jpg",
+			"contents" 	: [
+                "Smaller than N gauge, larger than Z gauge",
+                "Non-standard gauge trains",
+                "The Bassett Lowke Red Cross coach",
+                "American articulated locomotives",
+                "Japanese N gauge trains",
+                "Union Pacific big boys",
+                "Gunning for Lowke",
+                "Günthermann railway gun"
+            ]			
+		},
+        {
+			"button"	: "Issue 54",
+			"headline"	: "Train Collector, issue 54",
+			"description" : "Issue 54 is the first Train Collector of 2020. 50 pages about collecting trains all around the world. As usual TCS Members can access the online version in the members section. It is available in Train Collector Back Numbers section.",
+			"path"	: "images/t-c-issue-54-210x300.jpg",
+			"contents" 	: [
+                "Union Pacific articulates",
+                "Southern Pacific cab forwards",
+                "Norfolk & Western articulates",
+                "German articulated locomotives",
+                "American articulated locomotives",
+                "Chicago & North Western railroad",
+                "Pennsylvania railroad",
+                "Virginia & Truckee railroad"
+            ]			
+		},
+        {
+			"button"	: "Issue 56",
+			"headline"	: "Train Collector, issue 56",
+			"description" : "Issue 56 has been posted to the members and is also available online through the webpage. More than 50 pages with fascinating articles about collecting trains all around the world. It is available in Train Collector Back Numbers section.",
+			"path"	: "images/t-c-issue-56-210x300.jpg",
+			"contents" 	: [
+                "Toy and model trains",
+                "The name of the gauge",
+                "Gauge and scale explained",
+                "Modelling Non-standard gauge",
+                "Comparing the Gauges",
+                "Smaller than TT gauge, larger than N gauge",
+                "Track and wheel standards",
+                "Smaller than 0-gauge, larger than S gauge"
+            ]			
+		},
+        {
+			"button"	: "Issue 57",
+			"headline"	: "Train Collector, issue 57",
+			"description" : "Issue 57 is now available online. As usual members can acces it through the members area of the website. Printed copies have also been posted to the members but usually need some extra time to get through the Christmas post.",
+			"path"	: "images/t-c-issue-57-210x300.jpg",
+			"contents" 	: [
+                "Miniature railway gauges",
+                "Fabio and Maurizio Ravasini",
+                "Cars of the Italian railways",
+                "Cars of the German Railways and the DSG/Mitropa",
+                "Cars of the Swiss federal railways",
+                "Kibri direction indicator",
+                "Unknown mechanical bells",
+                "Unmarked direction indicator"
+            ]			
+		},
+        {
+			"button"	: "Issue 58",
+			"headline"	: "Train Collector, issue 58",
+			"description" : "The first issue for 2021 just in time for your weekend reading. As usual members can acces it online through the members area of the website. Printed copies also have been sent out to the members. This issue again covers the amazing variety of train collecting from around the world.",
+			"path"	: "images/t-c-issue-58-210x300.jpg",
+			"contents" 	: [
+                "Goods station and warehouses",
+                "Signal towers, semaphores and transformer houses",
+                "Crossings, walkways and signal bridges",
+                "Signal bridges by Ottmar Beckh",
+                "Hornby walkways and signal bridges",
+                "Tunnels, bridges, turntables and bufferstops",
+                "Lead railway characters",
+                "Hornby railway characters"
+            ]			
+		},
+        {
+			"button"	: "Issue 60",
+			"headline"	: "Train Collector, issue 60",
+			"description" : "The September issue of Train Collector is now available in the Train Collector eLibrary of the members pages for online reading. As usual it is full of interesting articles for every train collector. 50 pages of reading joy.",
+			"path"	: "images/t-c-issue-60-210x300.jpg",
+			"contents" 	: [
+                "Fleischmann Sleeping car",
+                "Toy train types larger gauges",
+                "Hwersdf Skwer Poasdfwre",
+                "Kleinbahn Sleeping car",
+                "The Empire State Express",
+                "Roundhouse Pullman Palace cars",
+                "Suydam Pullman Observation car",
+                "Pullman and Observation cars"
+            ]			
+		},
+        {
+			"button"	: "Issue 61",
+			"headline"	: "Train Collector, issue 61",
+			"description" : "Just in time for your reading time during the Christmas season the December issue of Train Collector is now available in the Train Collector eLibrary of the members pages for your online access. As usual it is full of interesting articles for every train around the world.",
+			"path"	: "images/t-c-issue-61-210x300.jpg",
+			"contents" 	: [
+                "The large steamliners of the thirties",
+                "Forerunner of streamlining",
+                "German toy steamliners",
+                "Platforms and accessories",
+                "German direction indicator",
+                "Tunnels, bridges, turntables and bufferstops",
+                "American Flyer bridge",
+                "Marescot accessories by Fulgurex"
+            ]			
+		},
+        {
+			"button"	: "Issue 62",
+			"headline"	: "Train Collector, issue 62",
+			"description" : "March issue is a sign of normality coming back: Minutes of the AGM, spring show report as well as nicely selected bunch of articles about Atlantics, Dribblers, Forgotten companies, Snapshots of history, ... 50 pages of reading joy.",
+			"path"	: "images/t-c-issue-62-210x300.jpg",
+			"contents" 	: [
+                "Mid Suffolk light railway",
+                "Train aerodynamique PLM",
+                "Sleeping cars and restaurant cars",
+                "Lima, Triang and Hornby Dublo",
+                "The Coronation Scot",
+                "The NYC Hudsons - “Know my Hudsons”",
+                "The LNER Pacifics – “There is more to this than Mallard”",
+                "Hornby France Pullman cars"
+            ]			
+		}
+	]
+}
